@@ -56,6 +56,7 @@ group :development, :test do
   gem 'dotenv-rails'
   gem 'webmock'
   gem 'vcr'
+  gem 'capybara'
 end
 
 group :development do
